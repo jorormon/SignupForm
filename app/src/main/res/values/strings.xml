@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SignupForm</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="repeat_password">Repetir contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="reset_password">Reset password</string>
+    <string name="first_privacy_label">Para poder continuar debe aceptar la</string>
+    <string name="privacy_policy">Política de Privacidad</string>
+    <string name="and">y</string>
+    <string name="terms_and_conditions">Términos y condiciones</string>
+    <string name="second_privacy_label">de Ortudev</string>
+    <string name="recovery_code">Código de recuperación</string>
+    <string name="continue_key">Continuar</string>
+    <string name="maintenance">Mantenimiento</string>
+    <string name="update">Actualizar</string>
+    <string name="maintenance_message">En estos momentos estamos realizando tareas de mantenimiento en el servidor. \n\nPor favor, inténtelo de nuevo más tarde.</string>
+    <string name="update_message">Hay una nueva versión disponible de la aplicación en Play Store. Para poder continuar utilizándola con normalidad, deberás actualizar a esta nueva versión.</string>
+    <string name="close_app">Cerrar aplicación</string>
+    <string name="close">Cerrar</string>
+</resources>
